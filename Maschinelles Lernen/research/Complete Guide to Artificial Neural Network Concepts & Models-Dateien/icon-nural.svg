@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+    <g fill="none" fill-rule="evenodd" transform="translate(-1)">
+        <rect width="4" height="18" x="7.75" y="2" fill="#D8DDEA" rx="2"/>
+        <path stroke="#374970" stroke-dasharray="26,9999" stroke-linecap="round" stroke-linejoin="round" d="M9.25 1a2.5 2.5 0 0 1 2.5 2.5v15a2.5 2.5 0 1 1-5 0v-15A2.5 2.5 0 0 1 9.25 1z"/>
+        <path stroke="#374970" stroke-dasharray="8,9999" stroke-linecap="round" stroke-linejoin="round" d="M4.629 13.879A3 3 0 1 0 8.87 18.12 3 3 0 0 0 4.63 13.88z"/>
+        <path stroke="#374970" stroke-dasharray="6,9999" stroke-linecap="round" stroke-linejoin="round" d="M8.805 2.193A2.5 2.5 0 1 0 5.459 5.91a2.5 2.5 0 0 0 3.346-3.716z"/>
+        <path stroke="#374970" stroke-dasharray="7,9999" stroke-linecap="round" stroke-linejoin="round" d="M5.913 5.338a2 2 0 1 0-2.677 2.973 2 2 0 0 0 2.677-2.973z"/>
+        <path stroke="#374970" stroke-dasharray="4,9999" stroke-linecap="round" stroke-linejoin="round" d="M8.01 7.286a1.5 1.5 0 1 0-.777-2.898 1.5 1.5 0 0 0 .776 2.898zM7.378 13.998a1.5 1.5 0 1 0 2.487 1.678 1.5 1.5 0 0 0-2.487-1.678zM7.186 9.513a1.5 1.5 0 1 0-1.027 2.82 1.5 1.5 0 0 0 1.027-2.82z"/>
+        <path stroke="#374970" stroke-dasharray="6,9999" stroke-linecap="round" stroke-linejoin="round" d="M2.806 9.204a3 3 0 1 0 4.388 4.092 3 3 0 0 0-4.388-4.092z"/>
+        <g stroke="#374970" stroke-dasharray="56,9999" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19.25 19a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM12.25 15.5h1.511M14.953 15.5h2.397a2 2 0 0 1 2 2v.42"/>
+        </g>
+        <g stroke="#374970" stroke-dasharray="56,9999" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19.25 3a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1zM12.25 6.5h1.511M14.953 6.5h2.397a2 2 0 0 0 2-2v-.42"/>
+        </g>
+        <path stroke="#374970" stroke-dasharray="56,9999" stroke-linecap="round" stroke-linejoin="round" d="M19.25 13a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM19.25 10a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM11.75 9.674h2.193M15.977 9.674h3.373M12.25 12.5h4.196"/>
+    </g>
+</svg>
