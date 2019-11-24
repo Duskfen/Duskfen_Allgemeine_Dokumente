@@ -30,7 +30,7 @@
 import tensorflow.keras
 from tensorflow.keras import backend as K
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import activation, Dense
+from tensorflow.keras.layers import Activation, Dense
 from tensorflow.keras.optimizers import Adam
 
 model = Sequential([
