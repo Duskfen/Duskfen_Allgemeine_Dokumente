@@ -61,7 +61,7 @@ model.fit(
     x=train_samples,
     y=train_labels,
     batch_size=3,
-    epochs=10,
+    epochs=20,
     shuffle=True,
     verbose=2
 )

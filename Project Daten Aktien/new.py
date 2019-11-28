@@ -47,9 +47,8 @@ model.compile(
     Adam(lr=0.0001),
     loss='kullback_leibler_divergence',
     metrics=['accuracy']
+    
 )
-
-
 
 model.fit(
     x=train_samples,
